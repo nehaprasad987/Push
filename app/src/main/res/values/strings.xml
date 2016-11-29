@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Push</string>
     <string name="test">testing</string>
+    <string name="testing..">push</string>
 </resources>
